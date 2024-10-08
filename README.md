@@ -1,5 +1,5 @@
 # 8_Queens_Problem
-Programa que busca todas las soluciones posibles, programada en java usando POO, al famoso problema de las 8 reinas, incluyendo una variante que permite añadir torres al problema. Este problema es escalable al de las n-Reinas cambiando en el programa la variable tablero.max_cells por cualquier otra cantidad distinta de 8
+Programa que busca todas las soluciones posibles al famoso problema de las 8 reinas, incluyendo una variante que permite añadir torres al problema. Este problema es escalable al de las n-Reinas cambiando en el programa la variable tablero.max_cells por cualquier otra cantidad distinta de 8
 
 ## ReinasApp.java
 Compilar y ejecutar este archivo usando Java SE o el compilador que se desee para solucionar el clásico problema de las reinas.
